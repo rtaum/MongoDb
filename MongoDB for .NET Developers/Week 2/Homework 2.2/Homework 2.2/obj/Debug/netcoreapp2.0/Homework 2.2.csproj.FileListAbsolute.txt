@@ -1,0 +1,10 @@
+F:\Projects\Mongo university\MongoDB for .NET Developers\Week 2\Homework 2.2\Homework 2.2\bin\Debug\netcoreapp2.0\Homework 2.2.deps.json
+F:\Projects\Mongo university\MongoDB for .NET Developers\Week 2\Homework 2.2\Homework 2.2\bin\Debug\netcoreapp2.0\Homework 2.2.runtimeconfig.json
+F:\Projects\Mongo university\MongoDB for .NET Developers\Week 2\Homework 2.2\Homework 2.2\bin\Debug\netcoreapp2.0\Homework 2.2.runtimeconfig.dev.json
+F:\Projects\Mongo university\MongoDB for .NET Developers\Week 2\Homework 2.2\Homework 2.2\bin\Debug\netcoreapp2.0\Homework 2.2.dll
+F:\Projects\Mongo university\MongoDB for .NET Developers\Week 2\Homework 2.2\Homework 2.2\obj\Debug\netcoreapp2.0\Homework 2.2.csprojResolveAssemblyReference.cache
+F:\Projects\Mongo university\MongoDB for .NET Developers\Week 2\Homework 2.2\Homework 2.2\obj\Debug\netcoreapp2.0\Homework 2.2.csproj.CoreCompileInputs.cache
+F:\Projects\Mongo university\MongoDB for .NET Developers\Week 2\Homework 2.2\Homework 2.2\obj\Debug\netcoreapp2.0\Homework 2.2.AssemblyInfo.cs
+F:\Projects\Mongo university\MongoDB for .NET Developers\Week 2\Homework 2.2\Homework 2.2\bin\Debug\netcoreapp2.0\Homework 2.2.pdb
+F:\Projects\Mongo university\MongoDB for .NET Developers\Week 2\Homework 2.2\Homework 2.2\obj\Debug\netcoreapp2.0\Homework 2.2.dll
+F:\Projects\Mongo university\MongoDB for .NET Developers\Week 2\Homework 2.2\Homework 2.2\obj\Debug\netcoreapp2.0\Homework 2.2.pdb

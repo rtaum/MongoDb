@@ -1,0 +1,10 @@
+F:\Projects\Mongo university\MongoDB for .NET Developers\m101app\MongoApp\MongoApp\bin\Debug\netcoreapp2.0\MongoApp.deps.json
+F:\Projects\Mongo university\MongoDB for .NET Developers\m101app\MongoApp\MongoApp\bin\Debug\netcoreapp2.0\MongoApp.runtimeconfig.json
+F:\Projects\Mongo university\MongoDB for .NET Developers\m101app\MongoApp\MongoApp\bin\Debug\netcoreapp2.0\MongoApp.runtimeconfig.dev.json
+F:\Projects\Mongo university\MongoDB for .NET Developers\m101app\MongoApp\MongoApp\bin\Debug\netcoreapp2.0\MongoApp.dll
+F:\Projects\Mongo university\MongoDB for .NET Developers\m101app\MongoApp\MongoApp\obj\Debug\netcoreapp2.0\MongoApp.csprojResolveAssemblyReference.cache
+F:\Projects\Mongo university\MongoDB for .NET Developers\m101app\MongoApp\MongoApp\obj\Debug\netcoreapp2.0\MongoApp.csproj.CoreCompileInputs.cache
+F:\Projects\Mongo university\MongoDB for .NET Developers\m101app\MongoApp\MongoApp\obj\Debug\netcoreapp2.0\MongoApp.AssemblyInfo.cs
+F:\Projects\Mongo university\MongoDB for .NET Developers\m101app\MongoApp\MongoApp\bin\Debug\netcoreapp2.0\MongoApp.pdb
+F:\Projects\Mongo university\MongoDB for .NET Developers\m101app\MongoApp\MongoApp\obj\Debug\netcoreapp2.0\MongoApp.dll
+F:\Projects\Mongo university\MongoDB for .NET Developers\m101app\MongoApp\MongoApp\obj\Debug\netcoreapp2.0\MongoApp.pdb
