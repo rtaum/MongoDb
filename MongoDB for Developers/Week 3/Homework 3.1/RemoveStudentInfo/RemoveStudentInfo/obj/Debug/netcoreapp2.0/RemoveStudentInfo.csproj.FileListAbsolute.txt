@@ -1,0 +1,10 @@
+F:\Projects\Mongo university\MongoDB for Developers\Week 3\Homework 3.1\RemoveStudentInfo\RemoveStudentInfo\bin\Debug\netcoreapp2.0\RemoveStudentInfo.deps.json
+F:\Projects\Mongo university\MongoDB for Developers\Week 3\Homework 3.1\RemoveStudentInfo\RemoveStudentInfo\bin\Debug\netcoreapp2.0\RemoveStudentInfo.runtimeconfig.json
+F:\Projects\Mongo university\MongoDB for Developers\Week 3\Homework 3.1\RemoveStudentInfo\RemoveStudentInfo\bin\Debug\netcoreapp2.0\RemoveStudentInfo.runtimeconfig.dev.json
+F:\Projects\Mongo university\MongoDB for Developers\Week 3\Homework 3.1\RemoveStudentInfo\RemoveStudentInfo\bin\Debug\netcoreapp2.0\RemoveStudentInfo.dll
+F:\Projects\Mongo university\MongoDB for Developers\Week 3\Homework 3.1\RemoveStudentInfo\RemoveStudentInfo\obj\Debug\netcoreapp2.0\RemoveStudentInfo.csprojResolveAssemblyReference.cache
+F:\Projects\Mongo university\MongoDB for Developers\Week 3\Homework 3.1\RemoveStudentInfo\RemoveStudentInfo\obj\Debug\netcoreapp2.0\RemoveStudentInfo.csproj.CoreCompileInputs.cache
+F:\Projects\Mongo university\MongoDB for Developers\Week 3\Homework 3.1\RemoveStudentInfo\RemoveStudentInfo\obj\Debug\netcoreapp2.0\RemoveStudentInfo.AssemblyInfo.cs
+F:\Projects\Mongo university\MongoDB for Developers\Week 3\Homework 3.1\RemoveStudentInfo\RemoveStudentInfo\bin\Debug\netcoreapp2.0\RemoveStudentInfo.pdb
+F:\Projects\Mongo university\MongoDB for Developers\Week 3\Homework 3.1\RemoveStudentInfo\RemoveStudentInfo\obj\Debug\netcoreapp2.0\RemoveStudentInfo.dll
+F:\Projects\Mongo university\MongoDB for Developers\Week 3\Homework 3.1\RemoveStudentInfo\RemoveStudentInfo\obj\Debug\netcoreapp2.0\RemoveStudentInfo.pdb
